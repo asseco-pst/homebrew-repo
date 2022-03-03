@@ -4,7 +4,7 @@
 
 `brew install asseco-pst/repo/<formula>`
 
-Or `brew tap kingfreir/repo` and then `brew install <formula>`.
+Or `brew tap asseco-pst/repo` and then `brew install <formula>`.
 
 ## Documentation
 
